@@ -20,3 +20,4 @@ En este proyecto hacemos uso de 3 apis; 2 para utilizarlas con el boton "NEXT JO
 </ul>
 <h4>Espero que te gusten!</h4>
 
+![sprint5_jokes](https://user-images.githubusercontent.com/94227693/178836555-14cace0c-4d0e-4417-ac26-38b31beae5db.jpg)
