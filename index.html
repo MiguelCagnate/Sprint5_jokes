@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="icon" type="image/x-icon" href="./css/favicon.ico" />
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <title>JOKES</title>
+  </head>
+  <header>
+    <div class="weatherWidget"></div>
+  </header>
+  <body>
+    <main>
+      <div class="center">
+        <img
+          src="./css/blob.svg"
+          alt="organic-looking SVG shape"
+          style="width: 100%"
+          class="main"
+          id="center"
+        />
+      </div>
+      <div class="container">
+        <br /><br /><br /><br /><br /><br />
+        <h1>         
+          <ul class="demo">
+            <li>Ready</li>
+            <li>for</li>
+            <li>Laughing?</li>
+          </ul>
+    </h1>
+    <br /><br /><br />
+        <div id="cnjokes"></div>
+      
+        <div class="containerJoke">
+          <div class="joke"><p></p></div>
+        </div>
+        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+        
+        <div>
+          <button class="css-button-retro--joke" type="button">
+            NEXT JOKE
+          </button>
+        </div>
+        <div class="qualification">
+          <div class="punctuation">
+            <button
+              class="punctuation-button-retro--green"
+              type="button"
+              id="3"
+              onclick="theReport('😁')"
+              value="😁"
+            >
+              😁
+            </button>
+            <button
+              class="punctuation-button-retro--green"
+              type="button"
+              id="2"
+              onclick="theReport('😑')"
+              value="😑"
+            >
+              😑
+            </button>
+            <button
+              class="punctuation-button-retro--green"
+              type="button"
+              id="1"
+              onclick="theReport('😭')"
+              value="😭"
+            >
+              😭
+            </button>
+          </div>
+        </div>
+      </div>
+      
+      <script src="./index.js"></script>
+    </main>
+  </body>
+</html>
