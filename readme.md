@@ -8,10 +8,10 @@ Serás el encargado de llevar a cabo la base del proyecto para realizar una demo
 <br>
 En este proyecto hacemos uso de 3 apis; 2 para utilizarlas con el boton "NEXT JOKE" para mostrar chistes aleatoriamente y la otra para mostrar el Clima de la ciudad.
 <ul><li>Cuando abras la página, pulsa "NEXT JOKE" para visualizar los chistes</li>
-<li>Puedes calificar los chistes con los botones de las emojis con los siguentes parametros:
-😁 - Muy bueno (3)
-😑 - Regular(2)
-😁 - Muy malo(1)
+<li>Puedes calificar los chistes con los botones de las emojis con los siguentes parametros:<br>
+😁 - Muy bueno (3)<br>
+😑 - Regular(2)<br>
+😭 - Muy malo(1)<br>
 </li>
 <li>Si presionas F12 o click derecho en cualqueir parte de la pantalla, podras ver por consola: 
 <ul><li>las calificaciones de tus chistes</li>
