@@ -1,4 +1,4 @@
-# <b><h3>*El Proyecto: Sprint 5 - Jokes*</h3></b>
+# <b><h3>*Sprint 5 - Jokes*</h3></b>
 Una empresa de coaching está trayendo un experimento a empresas de Barcelona, en la que está midiendo el impacto del humor y la diversión en la productividad.
 
 Nos han pedido una aplicación web que muestre chistes a los empleados antes de empezar la jornada laboral.
